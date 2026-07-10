@@ -12,7 +12,7 @@ dict
 A data structure that allows you to associate with one value with another.
 
 None
-represents the absent of a value (Null).
+Represents the absent of a value (Null).
 
 ---
 
@@ -23,8 +23,6 @@ represents the absent of a value (Null).
 - Password Brute Force V2 (using txt)
 
 ## Mistakes
-- Forgot Celsius conversion formula.
-- Used temp instead of descriptive variable names.
 
 ## Note
 - Python doesn't have ++ to increment numbers (i++, etc), there's only += [num].
