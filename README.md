@@ -6,7 +6,6 @@ My goal is to build a strong programming foundation for:
 
 - Cybersecurity
 - CTFs
-- Automation
 - Personal projects
 ---
 ## Structure

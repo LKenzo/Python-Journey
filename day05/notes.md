@@ -46,6 +46,7 @@ Python Imaging Library that is for opening, manipulating, and saving different i
 - https://docs.pytest.org/en/stable/
 - "w" to open up a file is dangerous, because it overwrites the old content of a file. Use Appending.
 - Programmers use csv instead of txt to store data in a file
+- https://pillow.readthedocs.io/en/stable/
 
 ## Question
 - I still don't get pytest.raises actually do?
