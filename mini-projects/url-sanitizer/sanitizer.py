@@ -4,7 +4,7 @@ def main():
         
         tld_set = open_tld_file()
 
-        url_list = url_file_opener("test_url_input.txt", tld_set)
+        url_list = url_file_opener(input("Input filename: "), tld_set)
         print(url_list)
     except FileNotFoundError:
         print("Error: Valid TLD List file not found")
